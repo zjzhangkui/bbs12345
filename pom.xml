@@ -17,9 +17,9 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <swagger.version>2.6.1</swagger.version>
-        <alibaba.fastjson.version>1.2.29</alibaba.fastjson.version>
-        <alibaba.druid.version>1.0.29</alibaba.druid.version>
+        <swagger.version>2.9.2</swagger.version>
+        <alibaba.fastjson.version>1.2.60</alibaba.fastjson.version>
+        <alibaba.druid.version>1.1.14</alibaba.druid.version>
     </properties>
 
     <dependencies>
@@ -56,7 +56,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.40</version>
+            <version>8.0.14</version>
         </dependency>
 
     </dependencies>
